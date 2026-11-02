@@ -2,7 +2,7 @@
 
 Type in binary. Eight toggle switches set an ASCII character, and a small OLED shows it alongside up to three stored characters. Press the red button and the board types them on the computer as a real USB keyboard.
 
-Board: Reverse Keyboard REV1.0, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB-Only Builds](https://justdif.com/pcb-only-builds/) page.
+Board: Reverse Keyboard REV1.0, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB Projects](https://justdif.com/pcb-projects/) page.
 
 ## How it works
 
